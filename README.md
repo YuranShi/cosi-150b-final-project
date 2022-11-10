@@ -1,6 +1,6 @@
 COSI 150B Final Project Report
 ==
-This repository was adapted and modified from the code
+This repository was adapted and modified
 from [A Deep Multimodal Approach for Cold-start Music Recommendation](https://dl.acm.org/doi/10.1145/3125486.3125492).
 
 ## Dataset
